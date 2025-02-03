@@ -2,4 +2,5 @@
 // and are overridden in turn by syntax-specific settings.
 {
 	"ignored_packages": [],
+	"vintage_start_in_command_mode": true,
 }
