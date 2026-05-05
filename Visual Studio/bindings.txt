@@ -1,0 +1,6 @@
+Window.CloseDocumentWindow		                    Ctrl W
+Window.RestoreClosedTab			                    Ctrl Shift T
+Window.NextTab                                      Ctrl Tab
+Window.PreviousTab                                  Ctrl Shift Tab
+Window.CloseAllWindows (CloseAllDocuments in ssms)  Ctrl Shift W
+File.CloseOtherTabs                                 Ctrl Alt W
