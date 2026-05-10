@@ -1,0 +1,2 @@
+
+visual studio window shortcuts explained: https://stackoverflow.com/questions/6238719/visual-studio-shortcut-to-navigate-to-solution-explorer

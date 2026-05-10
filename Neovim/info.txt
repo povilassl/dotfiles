@@ -1,0 +1,1 @@
+init.vim location: appdata/nvim/init.vim
